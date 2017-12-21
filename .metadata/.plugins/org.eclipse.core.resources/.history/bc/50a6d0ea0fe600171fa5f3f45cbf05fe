@@ -1,0 +1,26 @@
+/**
+ *
+ */
+package causule;
+
+/**
+ * @author internousdev
+ *
+ */
+public class capsule {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+Person taro= new Person();
+taro.setName("田中太郎");
+taro.setAge(19);
+taro.setAddress("bbb@co.jp");
+System.out.println(taro.getName());
+System.out.println(taro.getAge());
+System.out.println(taro.getAddress());
+	}
+
+}

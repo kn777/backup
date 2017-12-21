@@ -1,0 +1,29 @@
+/**
+ *
+ */
+
+/**
+ * @author internousdev
+ *
+ */
+public class Test {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+public class Test{
+	public static void main(String[] args){
+	Person kana = new parson();
+	kana.name="kana";
+	kana.age=21;
+	kana.address="埼玉県飯能市";
+	kana.phonenumber="08099999999";
+	kana.talk();
+
+	}
+}
+	}
+
+}
